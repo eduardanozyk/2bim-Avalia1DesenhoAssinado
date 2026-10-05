@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: Eduarda Nozykowski
+RA: 2025207350
+URL: https://2bim-avalia1desenhoassinado.pages.dev
